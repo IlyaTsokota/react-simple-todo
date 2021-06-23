@@ -5,7 +5,7 @@ const SearchPanel = () => {
     return (
         <input
             className="search-panel"
-            placeholder="search" />
+            placeholder="type to search" />
     );
 };
 
